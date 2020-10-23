@@ -1,0 +1,30 @@
+body {
+    font-size: 15pt;
+}
+.btn {
+  color:green;
+  padding: 10px;
+}
+.sn {
+  background: black;
+  display: none;
+}
+.image img{
+  width: auto;
+  max-width: 50%;
+}
+body {
+    font-size: 15pt;
+}
+.btn {
+  color:green;
+  padding: 10px;
+}
+.sn {
+  background: black;
+  display: none;
+}
+.image img{
+  width: auto;
+  max-width: 50%;
+}
